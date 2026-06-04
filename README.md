@@ -11,6 +11,9 @@ I'm starting from the fundamentals and documenting everything I learn along the 
 - Daily learning progress
 
 ## Progress
-- Day 1 — Built-in Data Types & Data Structures
+| Day | Topic |
+|-----|--------|
+| 1 | Built-in Data Types & Data Structures |
+| 2 | Control Structures & Loop |
 
 🌱 Learning, practicing, and improving one step at a time.

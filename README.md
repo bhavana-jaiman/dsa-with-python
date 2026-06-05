@@ -16,5 +16,6 @@ I'm starting from the fundamentals and documenting everything I learn along the 
 | 1 | Built-in Data Types & Data Structures |
 | 2 | Control Structures & Loop |
 | 3 | Functions |
+| 4 | Built-in Functions |
 
 🌱 Learning, practicing, and improving one step at a time.

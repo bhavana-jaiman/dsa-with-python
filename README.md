@@ -17,6 +17,7 @@ I'm starting from the fundamentals and documenting everything I learn along the 
 | 2 | Control Structures & Loop |
 | 3 | Functions |
 | 4 | Built-in Functions |
-| 5 | List Comprehension
+| 5 | List Comprehension |
+| 6 | Classes |
 
 🌱 Learning, practicing, and improving one step at a time.

@@ -19,5 +19,6 @@ I'm starting from the fundamentals and documenting everything I learn along the 
 | 4 | Built-in Functions |
 | 5 | List Comprehension |
 | 6 | Classes |
+| 7 | Array |
 
 🌱 Learning, practicing, and improving one step at a time.
